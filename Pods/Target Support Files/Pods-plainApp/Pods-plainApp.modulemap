@@ -1,0 +1,6 @@
+framework module Pods_plainApp {
+  umbrella header "Pods-plainApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
